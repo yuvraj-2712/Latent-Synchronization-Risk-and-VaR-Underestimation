@@ -20,12 +20,6 @@ except ImportError:
     YF_OK = False
     print("[WARN] yfinance not found — data download unavailable.")
 
-try:
-    from arch import arch_model
-    ARCH_OK = True
-except ImportError:
-    ARCH_OK = False
-
 # ══════════════════════════════════════════════════════════════════
 # CONFIGURATION
 # ══════════════════════════════════════════════════════════════════
