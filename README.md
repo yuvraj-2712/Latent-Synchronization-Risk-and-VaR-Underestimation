@@ -84,5 +84,5 @@ Matrix Theory Approach to Spectral Co-movement Detection.* SSRN Working Paper.
 
 ## Author
 
-Yuvraj Singh — Quantitative Options Analyst, Futures First; Graduate Researcher,
+Yuvraj Singh — Graduate Researcher,
 Department of Humanities & Social Sciences, IIT Roorkee.
